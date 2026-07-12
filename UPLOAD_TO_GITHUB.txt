@@ -1,0 +1,30 @@
+E1 PROJECT CALCULATOR PRO WEBSITE — UPLOAD STEPS
+
+1. Open your GitHub repository:
+   https://github.com/Unixzap/E1ProjectCalculator
+
+2. Delete or replace the old website files:
+   index.html
+   features.html
+   screenshots.html
+   support.html
+   styles.css
+   old website images that are no longer referenced
+
+3. Upload these new items to the repository root:
+   index.html
+   styles.css
+   script.js
+   assets (the complete folder)
+
+4. Commit the changes with this message:
+   Update website for E1 Project Calculator Pro 3.0
+
+5. Wait for the GitHub Pages deployment to finish.
+
+6. Refresh the website using Command-Shift-R so the browser does not show cached files.
+
+IMPORTANT:
+- Do not delete GitHub Releases.
+- Do not delete repository Settings or the .github folder.
+- The Download buttons use /releases/latest, so mark the correct application release as Latest.
